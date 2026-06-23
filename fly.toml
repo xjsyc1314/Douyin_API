@@ -1,4 +1,4 @@
-app = "my-douyin-api"  # 替换为你上一步设置的应用名
+app = "douyin-api"  # 替换为你上一步设置的应用名
 
 [build]
   # 项目根目录有 Dockerfile，无需额外配置
